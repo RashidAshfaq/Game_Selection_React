@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Game_Selection_React/static/css/main.84dd5b1f.css",
+    "main.js": "/Game_Selection_React/static/js/main.2f9c7cb2.js",
+    "index.html": "/Game_Selection_React/index.html",
+    "main.84dd5b1f.css.map": "/Game_Selection_React/static/css/main.84dd5b1f.css.map",
+    "main.2f9c7cb2.js.map": "/Game_Selection_React/static/js/main.2f9c7cb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84dd5b1f.css",
+    "static/js/main.2f9c7cb2.js"
+  ]
+}
